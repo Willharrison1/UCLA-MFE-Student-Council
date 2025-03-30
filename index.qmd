@@ -67,142 +67,175 @@ knitr::opts_chunk$set(echo = FALSE)
   </div>
 </div>
 ```
-
 # Welcome to the Help Website
 
-This website was created as a resource for our classmates. All of the original instructions and helpful content remain in place—simply update or add new sections as needed.
+This website was created as a resource for our classmates. We hope this can help you in your academic career. -Student Council
 
 ## Getting Started
 
 Here you’ll find tutorials, guides, and tips to help you with your coursework and projects.
 
+## Most Important Links for Students:
+
+-   [Bruin Grad Pass](https://transportation.ucla.edu/getting-to-ucla/public-transit/bruin-grad-pass) - Bus and metro free for Grad Students
+
+-   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response
+) - Complete this form for free meal swipes, 14 for international students and 7 for US students
+
+-   Consult with Jeremy and Antoine for custom resume and interview guidance.
+
+-   [Counseling and Psychological Services (CAPS)](https://www.counseling.ucla.edu/) - Mental health services
+
 ## Additional Information
 
-- [Meet the Team!](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/meet-our-team-overview)
-- **Contact:** mfe@anderson.ucla.edu 
-- **Office:** UCLA Anderson Room C401
+-   [Meet the Team!](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/meet-our-team-overview)
+-   **Contact:** mfe\@anderson.ucla.edu
+-   **Office:** UCLA Anderson Room C401
 
 ## Academic Resources {#academic-resources}
 
-:::{.ucla-accent}
+::: ucla-accent
 Access course materials, study spaces, and academic support to excel in your program.
 :::
 
 ### Course Materials
-- [UCLA Library](https://www.library.ucla.edu/) - Access textbooks and course materials
-- [UCLA BruinLearn](https://bruinlearn.ucla.edu/) - UCLA's Coursework Program (also known as Canvas)
-- [Anderson Course Catalog](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/academics) - Browse MFE Courses
+
+-   [UCLA Library](https://www.library.ucla.edu/) - Access UCLA Library
+-   [UCLA BruinLearn](https://bruinlearn.ucla.edu/) - UCLA's Coursework Program (also known as Canvas)
+-   [Anderson Course Catalog](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/academics) - Browse MFE Courses
 
 ### Study Spaces
-- [UCLA Study Room Reservations](https://www.asucla.ucla.edu/ucla/ucla-study-room-reservation) - Library study rooms for reservation
-- [Anderson Study Rooms](https://www.anderson.ucla.edu/rosenfeld-library) - Reservation for study rooms can be made at the front desk
+
+-   [UCLA Study Room Reservations](https://www.asucla.ucla.edu/ucla/ucla-study-room-reservation) - Library study rooms for reservation
+-   [Anderson Study Rooms](https://www.anderson.ucla.edu/rosenfeld-library) - Reservation for study rooms can be made at the front desk
 
 ### Tutoring and Academic Support
-- Look for some
+
+-   Reach out to the MFE team for any extra academic needs such as increased test time, or scheduling help.
 
 ## Financial Information {#financial-information}
 
-:::{.ucla-accent}
+::: ucla-accent
 Navigate tuition, fees, financial aid, and employment opportunities with these essential resources.
 :::
 
 ### Tuition and Fees
-- [MFE Program Costs](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/financing) - Breakdown of program costs
-- [UCLA Fees](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/program-calendar-and-fees#tab-fall-quarter-2024) - Official fee information and Payment Deadlines
+
+-   [MFE Program Costs](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/financing) - Breakdown of program costs
+-   [UCLA Fees](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/program-calendar-and-fees#tab-fall-quarter-2024) - Official fee information and Payment Deadlines
 
 ### Financial Aid
-- [UCLA Financial Aid Office](https://www.financialaid.ucla.edu/) - Information on grants, loans, and work-study
-- [Non-UCLA Scholarships](https://www.scholarshipcenter.ucla.edu/scholarship-search/outside-scholarships/#othergraduate) - 3rd party scholarships
-- [FAFSA Application](https://studentaid.gov/h/apply-for-aid/fafsa) - Apply for federal financial aid
+
+-   [UCLA Financial Aid Office](https://www.financialaid.ucla.edu/) - Information on grants, loans, and work-study
+-   [Non-UCLA Scholarships](https://www.scholarshipcenter.ucla.edu/scholarship-search/outside-scholarships/#othergraduate) - 3rd party scholarships
+-   [FAFSA Application](https://studentaid.gov/h/apply-for-aid/fafsa) - Apply for federal financial aid
 
 ### Student Employment
-- [UCLA Career Center](https://www.asucla.ucla.edu/get-a-job) - Job listings for students
-- [Work-Study Opportunities](https://financialaid.ucla.edu/types-of-aid/work-study) - Information on federal work-study
-- [Handshake](https://ucla.joinhandshake.com/) - UCLA's job and internship platform
+
+-   [UCLA Career Center](https://www.asucla.ucla.edu/get-a-job) - Job listings for students
+-   [Work-Study Opportunities](https://financialaid.ucla.edu/types-of-aid/work-study) - Information on federal work-study
+-   [Handshake](https://ucla.joinhandshake.com/) - UCLA's job and internship platform
+-   [Linkedin](https://linkedin.com/) - Search for Job's
+-   UCLA Job Posting WhatsApp chat. Ask for entry
 
 ## Career Services {#career-services}
 
-:::{.ucla-accent}
-Prepare for your future career with job resources, networking opportunities, and professional development.
+::: ucla-accent
+Prepare for your future career with job resources, networking opportunities, and professional development. Search Career Management Portal on Canvas for more.
 :::
 
 ### Job & Internship Resources
-- [MFE Career Services](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/career-impact) - MFE-specific career support
-- [Anderson Career Services](https://www.anderson.ucla.edu/career-services) - Career resources for Anderson students
-- [Parker Career Management Center](https://www.anderson.ucla.edu/parker) - Career development resources
+
+-   Consult with Jeremy and Antoine for custom resume and interview guidance.
+-   [MFE Career Services](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/career-impact) - MFE-specific career support
+-   [Alumni Career Services](https://www.anderson.ucla.edu/career-services) - Career resources for Alumni
 
 ### Networking
-- [UCLA Alumni Association](https://alumni.ucla.edu/) - Connect with UCLA alumni
-- [Financial Engineering Network](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/student-experience) - MFE alumni network
-- [LinkedIn UCLA Groups](https://www.linkedin.com/school/ucla/people/) - UCLA groups on LinkedIn
+
+-   [UCLA Alumni Association](https://alumni.ucla.edu/) - Connect with UCLA alumni
+-   [Financial Engineering Network](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/student-experience) - MFE alumni network
+-   [LinkedIn UCLA Groups](https://www.linkedin.com/school/ucla/people/) - UCLA groups on LinkedIn
+-   [Andersion News](https://www.anderson.ucla.edu/news-and-events) - UCLA Anderson current news
 
 ### Professional Development
-- [Resume & Cover Letter Resources](https://www.career.ucla.edu/resume-and-cover-letters) - Templates and guides
-- [Interview Preparation](https://www.career.ucla.edu/interviewing) - Interview tips and practice
-- [Leadership Development](https://www.ucla.edu/student-life/leadership) - Leadership opportunities
+
+-   **Resume & Cover Letter Help** - Check Career Management Portal on Canvas for help on this or contact careers team
+-   **Interview Preparation** - Interview tips and practice contact Antoine and Jeremy
+-   [Career Development](https://career.ucla.edu/) - Career Development and Events
 
 ## Student Life {#student-life}
 
-:::{.ucla-accent}
+::: ucla-accent
 Get involved in campus activities, join student organizations, and enjoy what UCLA has to offer.
 :::
 
 ### Student Organizations
-- [Anderson Student Association](https://www.anderson.ucla.edu/mba-programs/full-time-mba/student-life/student-organizations) - Student clubs and organizations
-- [Graduate Student Association](https://gsa.asucla.ucla.edu/) - Organization for graduate students
-- [International Student Association](https://community.ucla.edu/studentorgs/international-students) - Support for international students. ch
+
+-   [Anderson Student Association](https://www.anderson.ucla.edu/about/clubs-and-associations/anderson-student-association-asa) - Student clubs and organizations
+-   [Graduate Student Association](https://gsa.asucla.ucla.edu/) - Organization for graduate students
+-   [International Student Association](https://community.ucla.edu/studentorgs/international-students) - Support for international students.
 
 ### Campus Events
-- [UCLA Central Calendar](https://www.ucla.edu/events) - University-wide events
-- [Anderson Events](https://www.anderson.ucla.edu/events) - School-specific events
-- [UCLA Recreation](https://www.recreation.ucla.edu/calendar) - Recreational activities and events
+
+-   [UCLA Central Calendar](https://www.ucla.edu/events) - University-wide events
+-   [Anderson Events](https://www.anderson.ucla.edu/news-and-events) - Anderson-specific events
+-   [UCLA Recreation](https://recreation.ucla.edu/) - Recreational activities and events
 
 ### Food & Dining
-- [UCLA Dining Services](https://menu.dining.ucla.edu/hours) - Campus dining options
-- [BruinCard Restaurants](https://bruincard.ucla.edu/where-use) - Places that accept BruinCard
-- [Westwood Village Dining](https://www.experiencewestwood.com/dine) - Nearby restaurant options
+
+-   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response
+) - Complete this form for free meal swipes, 14 for international students and 7 for US students
+-   [UCLA Dining Services Hours](https://menu.dining.ucla.edu/hours) - Campus dining options
+-   [Westwood Village Dining](https://thewestwoodvillage.com/) - Nearby restaurant options
 
 ## Health & Wellness {#health-wellness}
 
-:::{.ucla-accent}
+::: ucla-accent
 Take care of your physical and mental health with these essential wellness resources.
 :::
 
 ### Medical Services
-- [UCLA Arthur Ashe Student Health Center](https://www.studenthealth.ucla.edu/) - Primary care and specialty services
-- [Student Health Insurance](https://www.studenthealth.ucla.edu/insurance) - Information on UCLA SHIP
-- [COVID-19 Resources](https://covid-19.ucla.edu/) - Latest updates and protocols
+
+-   [UCLA Arthur Ashe Student Health Center](https://www.studenthealth.ucla.edu/services) - Primary care and specialty services
+-   [Student Health Insurance](https://www.studenthealth.ucla.edu/insurance) - Information on UCLA SHIP
+-   [COVID-19 Resources](https://covid-19.ucla.edu/) - Latest updates and protocols
 
 ### Mental Health Resources
-- [Counseling and Psychological Services (CAPS)](https://www.counseling.ucla.edu/) - Mental health services
-- [CAPS Workshops](https://www.counseling.ucla.edu/services/workshops) - Group therapy and workshops
-- [Crisis Resources](https://www.counseling.ucla.edu/emergency-information) - Urgent mental health support
+
+-   [Counseling and Psychological Services (CAPS)](https://www.counseling.ucla.edu/) - Mental health services
+-   [RISE Workshops](https://risecenter.ucla.edu/) - Group therapy and workshops
+-   [Crisis Resources](https://counseling.ucla.edu/concerned-about-a-bruin/concerned-about-a-bruin) - Urgent mental health support
 
 ### Wellness Programs
-- [UCLA Recreation](https://www.recreation.ucla.edu/) - Fitness centers and classes
-- [Mindful Awareness Research Center](https://www.uclahealth.org/marc/) - Mindfulness resources
-- [Healthy Campus Initiative](https://healthy.ucla.edu/) - Wellness programs and events
+
+-   [UCLA Recreation](https://www.recreation.ucla.edu/) - Fitness centers and classes
+-   [Mindful Awareness Research Center](https://www.uclahealth.org/marc/) - Mindfulness resources
+-   [Healthy Campus Initiative](https://healthy.ucla.edu/) - Wellness programs and events
 
 ## Housing & Transportation {#housing-transportation}
 
-:::{.ucla-accent}
+::: ucla-accent
 Find housing options and navigate transportation to and around campus.
 :::
 
 ### On-Campus Housing
-- [UCLA Graduate Housing](https://housing.ucla.edu/my-housing/graduate-students-and-students-with-families) - Options for graduate students
-- [Housing Application](https://portal.housing.ucla.edu/) - Apply for on-campus housing
-- [Family Housing](https://housing.ucla.edu/my-housing/graduate-students-and-students-with-families/family-housing) - Options for students with families
+
+-   [UCLA Graduate Housing](https://housing.ucla.edu/content/housing-single-graduate-students-and-students-families) - Options for graduate students
+-   [Housing Application](https://portal.housing.ucla.edu/) - Apply for on-campus housing
+-   [Family Housing](https://housing.ucla.edu/student-housing/students-with-families) - Options for students with families
 
 ### Off-Campus Housing
-- [UCLA Community Housing Office](https://www.cho.ucla.edu/) - Off-campus housing resources
-- [UCLA Rental Listings](https://www.cho.ucla.edu/housing-options/rental-listings) - Available apartments and roommates
-- [Westwood Rentals Guide](https://www.cho.ucla.edu/housing-options/westwood-rentals) - Local rental information
+
+-   [UCLA Community Housing Office](https://housing.ucla.edu/community-housing) - Off-campus housing resources
+-   [UCLA Off Campus Rental Listings](https://housing.ucla.edu/student-housing/transfer-students/living-off-campus/living-off-campus-in-university-apartments) - Available UCLA housing off campus
+-   [Westwood Rentals](https://www.apartments.com/westwood-los-angeles-ca/) - Local rental information
 
 ### Transportation & Parking
-- [UCLA Transportation](https://www.transportation.ucla.edu/) - Parking, transit, and alternative transportation
-- [BruinBus](https://www.transportation.ucla.edu/campus-transit/bruinbus) - Campus shuttle service
-- [Public Transit Information](https://www.transportation.ucla.edu/getting-to-ucla/public-transit) - Bus and metro options
+
+-   [Bruin Grad Pass](https://transportation.ucla.edu/getting-to-ucla/public-transit/bruin-grad-pass) - Bus and metro free for Grad Students
+-   [UCLA Transportation](https://www.transportation.ucla.edu/) - Parking, transit, and alternative transportation
+-   [BruinBus](https://transportation.ucla.edu/getting-around-campus/bruinbus) - Campus shuttle service
+
 
 ```{=html}
 <footer class="footer mt-5">
