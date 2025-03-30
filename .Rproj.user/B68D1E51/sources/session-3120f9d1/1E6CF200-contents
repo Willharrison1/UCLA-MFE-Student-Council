@@ -1,0 +1,393 @@
+/* Base styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Navigation styling */
+.navbar {
+  background-color: #2774AE !important; /* UCLA Blue */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+  width: 100%;
+}
+.navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+.navbar-title {
+  color: white !important;
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-decoration: none;
+}
+.nav {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+.nav-item { 
+  margin: 0; 
+}
+.nav-link {
+  color: white !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+.nav-link:hover {
+  color: #FFD100 !important; /* UCLA Gold */
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Link styling */
+a {
+  color: #2774AE; /* UCLA Blue */
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: #005587; /* UCLA Darker Blue */
+  text-decoration: underline;
+}
+
+/* Enhanced Table of Contents styling - Combined Version */
+#TOC {
+  background-color: #ffffff; /* White background */
+  color: #2774AE; /* Changed to light UCLA blue text */
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px 0;
+  border: 2px solid #2774AE; /* UCLA Blue border */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Hide the TOC title */
+nav[role="doc-toc"] > h2 {
+  display: none !important;
+}
+
+/* Adjust spacing */
+nav[role="doc-toc"] > ul {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#TOC:hover {
+  background-color: #FFD100; /* UCLA Gold background on hover */
+  border-color: #FFD100; /* UCLA Gold border on hover */
+}
+
+
+
+/* Main TOC items */
+#TOC ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+#TOC > ul > li > a {
+  color: #2774AE !important; /* Changed to light UCLA blue */
+  display: block;
+  padding: 8px 15px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  transition: all 0.2s ease;
+  font-weight: 600;
+  position: relative;
+  font-size: 1.1rem; /* Slightly larger font */
+}
+
+/* Subsection items (indented with gold accent) */
+#TOC ul ul {
+  padding-left: 20px;
+  margin-top: 5px;
+}
+
+#TOC ul ul li a {
+  font-weight: 500;
+  font-size: 1.0em; /* Slightly larger font */
+  padding: 6px 15px 6px 25px;
+  position: relative;
+  color: #2774AE !important; /* Changed to light UCLA blue */
+}
+
+/* Gold accent bar for subsections */
+#TOC ul ul li a::before {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 60%;
+  width: 3px;
+  background-color: #FFD100; /* UCLA Gold */
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+/* Hover effects */
+#TOC a:hover:not(.toc-active) {
+  background-color: #FFD100 !important; /* UCLA Gold on hover */
+  color: #005587 !important; /* UCLA Darker Blue text */
+  text-decoration: none;
+}
+
+/* Active item styling */
+.toc-active {
+  background-color: rgba(255, 209, 0, 0.2) !important; /* Semi-transparent gold */
+  color: #FFD100 !important; /* UCLA Gold */
+  font-weight: bold;
+  border-left: 3px solid #FFD100; /* UCLA Gold accent */
+  padding-left: 12px !important;
+}
+
+/* Active subsection styling */
+.toc-active::before {
+  background-color: #005587 !important; /* UCLA Darker Blue for active subsections */
+}
+
+/* Section headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #2774AE; /* UCLA Blue */
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+h2 {
+  border-bottom: 2px solid #FFD100; /* UCLA Gold */
+  padding-bottom: 0.5rem;
+  font-size: 1.8rem;
+  padding-top: 40px;
+  margin-top: 20px;
+}
+h3 {
+  font-size: 1.4rem;
+  color: #444;
+}
+
+/* Hero Section styling */
+.hero-section {
+  width: 100%;
+  border-radius: 0;
+  margin: 0;
+  background: linear-gradient(135deg, #2774AE, #005587); /* Blue to Darker Blue */
+  color: white;
+  padding: 60px 40px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('image.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.1;
+  z-index: 0;
+}
+.hero-section .container {
+  position: relative;
+  z-index: 1;
+}
+.hero-section h1 {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+  color: white;
+}
+.hero-section p {
+  font-size: 1.3rem;
+  max-width: 800px;
+  margin: 0 auto 20px;
+}
+.btn-light {
+  background-color: white;
+  color: #2774AE; /* UCLA Blue */
+  border: none;
+  padding: 0.5rem 1.5rem;
+  font-weight: 600;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+.btn-light:hover {
+  background-color: #FFD100; /* UCLA Gold */
+  color: #005587; /* UCLA Darker Blue */
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Resource cards grid */
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 40px 0;
+}
+
+/* Card styling */
+.card {
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  margin: 20px 0;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+.card-header {
+  background-color: #2774AE; /* UCLA Blue */
+  color: white;
+  padding: 15px 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.card-body {
+  padding: 20px;
+}
+.card-body a {
+  color: #333;
+  display: block;
+}
+
+/* UCLA brand accent */
+.ucla-accent {
+  border-left: 4px solid #FFD100; /* UCLA Gold */
+  padding: 15px 20px;
+  margin: 25px 0;
+  background-color: rgba(39, 116, 174, 0.05);
+  border-radius: 0 8px 8px 0;
+  font-size: 1.1rem;
+}
+
+/* Footer */
+.footer {
+  margin-top: 60px;
+  padding: 30px 0;
+  text-align: center;
+  font-size: 0.9em;
+  color: #6c757d;
+  border-top: 1px solid #dee2e6;
+  background-color: #f8f9fa;
+}
+
+/* Animation effects */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.section {
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+/* Improved list styling */
+ul, ol {
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 10px;
+}
+li a {
+  font-weight: 500;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .navbar .container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+  .hero-section p {
+    font-size: 1.1rem;
+  }
+  .section-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Dark mode support improvements */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+  }
+  main, #TOC {
+    background-color: #333;
+    color: #e0e0e0;
+  }
+  h2, h3, h4, h5, h6 {
+    color: #8BB8E8; /* UCLA Lighter Blue */
+  }
+  a {
+    color: #8BB8E8;
+  }
+  .card, .ucla-accent {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+  }
+  .card-body {
+    background-color: #3a3a3a;
+  }
+  .card-body a {
+    color: #e0e0e0;
+  }
+  .footer {
+    background-color: #2c2c2c;
+    color: #c0c0c0;
+  }
+  #TOC {
+    background-color: #FFD100;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  }
+  #TOC a {
+    color: #fff !important;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  }
+  .toc-active {
+    color: #2774AE !important;
+    text-shadow: none;
+  }
+}
