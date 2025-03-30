@@ -75,12 +75,11 @@ This website was created as a resource for our classmates. We hope this can help
 
 Here you’ll find tutorials, guides, and tips to help you with your coursework and projects.
 
-## Most Important Links for Students:
+## Most Important Links for Students
 
 -   [Bruin Grad Pass](https://transportation.ucla.edu/getting-to-ucla/public-transit/bruin-grad-pass) - Bus and metro free for Grad Students
 
--   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response
-) - Complete this form for free meal swipes, 14 for international students and 7 for US students
+-   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response) - Complete this form for free meal swipes, 14 for international students and 7 for US students
 
 -   Consult with Jeremy and Antoine for custom resume and interview guidance.
 
@@ -91,6 +90,7 @@ Here you’ll find tutorials, guides, and tips to help you with your coursework 
 -   [Meet the Team!](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/meet-our-team-overview)
 -   **Contact:** mfe\@anderson.ucla.edu
 -   **Office:** UCLA Anderson Room C401
+-   [**MFE Instagram**](https://www.instagram.com/uclamfe25/)
 
 ## Academic Resources {#academic-resources}
 
@@ -166,7 +166,7 @@ Prepare for your future career with job resources, networking opportunities, and
 ## Student Life {#student-life}
 
 ::: ucla-accent
-Get involved in campus activities, join student organizations, and enjoy what UCLA has to offer.
+Get involved in campus activities, join student organizations, and enjoy what UCLA has to offer. Many clubs and networking events are running behind the scenes at all times.
 :::
 
 ### Student Organizations
@@ -183,15 +183,14 @@ Get involved in campus activities, join student organizations, and enjoy what UC
 
 ### Food & Dining
 
--   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response
-) - Complete this form for free meal swipes, 14 for international students and 7 for US students
+-   [UCLA Emergency Meal Swipes](https://studentincrisis.ucla.edu/economic-crisis-response) - Complete this form for free meal swipes, 14 for international students and 7 for US students
 -   [UCLA Dining Services Hours](https://menu.dining.ucla.edu/hours) - Campus dining options
 -   [Westwood Village Dining](https://thewestwoodvillage.com/) - Nearby restaurant options
 
 ## Health & Wellness {#health-wellness}
 
 ::: ucla-accent
-Take care of your physical and mental health with these essential wellness resources.
+Take care of your physical and mental health with these essential wellness resources. Don't be afraid to reach out to any of your faculty or classmates as well.
 :::
 
 ### Medical Services
@@ -235,7 +234,6 @@ Find housing options and navigate transportation to and around campus.
 -   [Bruin Grad Pass](https://transportation.ucla.edu/getting-to-ucla/public-transit/bruin-grad-pass) - Bus and metro free for Grad Students
 -   [UCLA Transportation](https://www.transportation.ucla.edu/) - Parking, transit, and alternative transportation
 -   [BruinBus](https://transportation.ucla.edu/getting-around-campus/bruinbus) - Campus shuttle service
-
 
 ```{=html}
 <footer class="footer mt-5">
